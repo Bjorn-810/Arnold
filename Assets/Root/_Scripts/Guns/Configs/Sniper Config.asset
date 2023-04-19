@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa653553dd928974988e044d09679f32, type: 3}
+  m_Name: Sniper Config
+  m_EditorClassIdentifier: 
+  Type: 1
+  Name: Laser
+  ModelPrefab: {fileID: 4254624848364847131, guid: 51e60410bf671ce42a97e4b7c11d7784,
+    type: 3}
+  _GunIcon: {fileID: 21300000, guid: a7c6401de352609408a735954bafa543, type: 3}
+  ShootConfiguration: {fileID: 11400000, guid: 2b9973826df900449bd858dce476534a, type: 2}
+  AmmoConfig: {fileID: 11400000, guid: 941059f67e3466f44b239ebcdf2069cb, type: 2}
+  TrailConfiguration: {fileID: 11400000, guid: 69746f6a404312241b04d2dc28b4a204, type: 2}
+  CameraShakeConfiguration: {fileID: 11400000, guid: 65c8023d228b78b4cb7b610d1763d6cc,
+    type: 2}
+  DamageConfiguration: {fileID: 11400000, guid: f8839a5116aaeaa46b72fa21f142c012,
+    type: 2}

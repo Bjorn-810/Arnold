@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa653553dd928974988e044d09679f32, type: 3}
+  m_Name: BruceConfig 1
+  m_EditorClassIdentifier: 
+  Type: 1
+  Name: Laser
+  ModelPrefab: {fileID: 5548941833671118017, guid: 83375c844fae1344fb97793670d83338,
+    type: 3}
+  ShootConfiguration: {fileID: 11400000, guid: dd2abd286f66123449ed31241d0463a9, type: 2}
+  AmmoConfig: {fileID: 11400000, guid: cb9b1ddc72fe9a34bb7d4ae7a1880191, type: 2}
+  TrailConfiguration: {fileID: 11400000, guid: 0fa4bf7187f5e944fa82a3e7ba17b7c8, type: 2}
+  CameraShakeConfiguration: {fileID: 11400000, guid: e8eb6334a770a434eaabe3fdd46c81a6,
+    type: 2}
+  DamageConfiguration: {fileID: 11400000, guid: 503ea51c1c767dc40ae4f2bfa43e7e19,
+    type: 2}
